@@ -1,0 +1,73 @@
+https://github.com/jaydeepjain2326/HTML5-CSS3.git
+…or create a new repository on the command line
+
+echo "# HTML5-CSS3" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jaydeepjain2326/HTML5-CSS3.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/jaydeepjain2326/HTML5-CSS3.git
+git push -u origin master
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+Import code
+
+
+git init
+git -a
+git add .
+git add filename
+        foldername
+
+git add *(to add all files)
+git commit -m (intial commit-message)
+git remote add origin https://github.com/jaydeepjain2326/HTML5-CSS3.git
+git config --global user.mail 'jaydeepjain2326@gmail.com'
+git config --global user.name 'jaydeep jain'
+git commitgit 
+git remote -v(to know the centralised repo)
+git push -u origin master
+
+for clone repo-
+git clone url
+
+
+
+git pull origin master 
+
+
+
+
+Quick setup — if you’ve done this kind of thing before
+or	
+ HTTPS
+ SSH
+
+https://github.com/jaydeepjain2326/Stackroute.git
+
+We recommend every repository include a README, LICENSE, and .gitignore.
+…or create a new repository on the command line
+
+echo "# Stackroute" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jaydeepjain2326/Stackroute.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/jaydeepjain2326/Stackroute.git
+git push -u origin master
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+Import code
+
+
+
+
+
